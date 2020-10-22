@@ -1,0 +1,6 @@
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\Backend\bin\Debug\Backend.dll
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\Backend\bin\Debug\Backend.pdb
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\Backend\obj\Debug\Backend.csprojAssemblyReference.cache
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\Backend\obj\Debug\Backend.dll
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\Backend\obj\Debug\Backend.pdb

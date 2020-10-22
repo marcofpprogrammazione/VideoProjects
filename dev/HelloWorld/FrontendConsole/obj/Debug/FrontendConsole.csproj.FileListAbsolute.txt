@@ -1,0 +1,10 @@
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\bin\Debug\FrontendConsole.exe.config
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\bin\Debug\FrontendConsole.exe
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\bin\Debug\FrontendConsole.pdb
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\bin\Debug\Backend.dll
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\bin\Debug\Backend.pdb
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\obj\Debug\FrontendConsole.csprojAssemblyReference.cache
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\obj\Debug\FrontendConsole.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\obj\Debug\FrontendConsole.csproj.CopyComplete
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\obj\Debug\FrontendConsole.exe
+C:\Users\marco\Documents\Marco\04_Projects\02_MarcoFPprogrammAzione\VideoProjects\dev\HelloWorld\FrontendConsole\obj\Debug\FrontendConsole.pdb
